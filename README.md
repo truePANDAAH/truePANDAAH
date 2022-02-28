@@ -24,6 +24,7 @@ I'm a front-end developer student in Develhope with a past as a Sales Director i
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 &nbsp;  
 
+i'm acctually working on some project that will be soon on my GitHub .
 
 &nbsp;  
 <!--
